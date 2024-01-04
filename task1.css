@@ -1,0 +1,76 @@
+body{
+    margin: 0px;
+  font-family:Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  font-size: 17px; 
+}
+#header{
+    background-image: url("../Image/beachshowcase.jpg");
+    background-size: cover;
+    height: 900px;
+    text-align: center;
+    padding: 30px;
+}
+
+#header div{
+    text-align: center;
+    margin-top: 50px;
+    line-height: 35px;
+}
+#header h1{
+    color: rgb(146, 98, 57);
+    margin-top: 250px;
+    line-height: 40px;
+}
+#header h1{
+    color: rgb(146, 98, 57);
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+a{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 15px;
+    border: 1px solid  rgb(146, 98, 57);
+    color:  rgb(146, 98, 57);
+    border-radius: 10px;
+}
+a:hover{
+    background-color:  rgb(146, 98, 57);
+    color: white;
+}
+main #para1{
+    background-color:  rgb(146, 98, 57);
+    color: white;
+    font-size: 17px;
+    text-align: center;
+    line-height: 1.6;
+    padding: 20px;
+}
+main #para2{
+    color: rgb(146, 98, 57);
+    font-size: 17px;
+    text-align: center;
+    line-height: 1.6;
+    padding: 20px
+}
+main  #para3,main #para4,main #para5{
+    display: inline-block;
+    text-align: justify;
+    width: 385px;
+    font-size: 17px;
+    line-height: 1.6;
+    padding: 30px;
+
+}
+main #para4{
+    color: rgb(146, 98, 57);
+}
+main #para3,main #para5{
+    background-color: rgb(146, 98, 57);
+    color: white;
+}
+p{
+    margin: 0px;
+}
